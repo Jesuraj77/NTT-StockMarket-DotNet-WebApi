@@ -1,0 +1,24 @@
+C:\Users\Admin\source\repos\StockMarket\StockMarket.Entities\bin\Debug\netstandard2.0\StockMarket.Entities.deps.json
+C:\Users\Admin\source\repos\StockMarket\StockMarket.Entities\bin\Debug\netstandard2.0\StockMarket.Entities.dll
+C:\Users\Admin\source\repos\StockMarket\StockMarket.Entities\bin\Debug\netstandard2.0\StockMarket.Entities.pdb
+C:\Users\Admin\source\repos\StockMarket\StockMarket.Entities\obj\Debug\netstandard2.0\StockMarket.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\StockMarket\StockMarket.Entities\obj\Debug\netstandard2.0\StockMarket.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StockMarket\StockMarket.Entities\obj\Debug\netstandard2.0\StockMarket.Entities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StockMarket\StockMarket.Entities\obj\Debug\netstandard2.0\StockMarket.Entities.dll
+C:\Users\Admin\source\repos\StockMarket\StockMarket.Entities\obj\Debug\netstandard2.0\StockMarket.Entities.pdb
+C:\Users\Admin\Desktop\StockMarket\StockMarket.Entities\bin\Debug\netstandard2.0\StockMarket.Entities.deps.json
+C:\Users\Admin\Desktop\StockMarket\StockMarket.Entities\bin\Debug\netstandard2.0\StockMarket.Entities.dll
+C:\Users\Admin\Desktop\StockMarket\StockMarket.Entities\bin\Debug\netstandard2.0\StockMarket.Entities.pdb
+C:\Users\Admin\Desktop\StockMarket\StockMarket.Entities\obj\Debug\netstandard2.0\StockMarket.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\StockMarket\StockMarket.Entities\obj\Debug\netstandard2.0\StockMarket.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\StockMarket\StockMarket.Entities\obj\Debug\netstandard2.0\StockMarket.Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\StockMarket\StockMarket.Entities\obj\Debug\netstandard2.0\StockMarket.Entities.dll
+C:\Users\Admin\Desktop\StockMarket\StockMarket.Entities\obj\Debug\netstandard2.0\StockMarket.Entities.pdb
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.Entities\bin\Debug\netstandard2.0\StockMarket.Entities.deps.json
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.Entities\bin\Debug\netstandard2.0\StockMarket.Entities.dll
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.Entities\bin\Debug\netstandard2.0\StockMarket.Entities.pdb
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.Entities\obj\Debug\netstandard2.0\StockMarket.Entities.csprojAssemblyReference.cache
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.Entities\obj\Debug\netstandard2.0\StockMarket.Entities.AssemblyInfoInputs.cache
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.Entities\obj\Debug\netstandard2.0\StockMarket.Entities.AssemblyInfo.cs
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.Entities\obj\Debug\netstandard2.0\StockMarket.Entities.dll
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.Entities\obj\Debug\netstandard2.0\StockMarket.Entities.pdb

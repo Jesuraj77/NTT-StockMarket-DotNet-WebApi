@@ -1,0 +1,63 @@
+C:\Users\Admin\source\repos\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Admin\source\repos\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Admin\source\repos\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Admin\source\repos\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.WebApi.deps.json
+C:\Users\Admin\source\repos\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.WebApi.runtimeconfig.json
+C:\Users\Admin\source\repos\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.WebApi.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.WebApi.dll
+C:\Users\Admin\source\repos\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.WebApi.pdb
+C:\Users\Admin\source\repos\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.DataLayer.dll
+C:\Users\Admin\source\repos\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.Entities.dll
+C:\Users\Admin\source\repos\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.DataLayer.pdb
+C:\Users\Admin\source\repos\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.Entities.pdb
+C:\Users\Admin\source\repos\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.csproj.CopyComplete
+C:\Users\Admin\source\repos\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.dll
+C:\Users\Admin\source\repos\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.pdb
+C:\Users\Admin\Desktop\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Admin\Desktop\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Admin\Desktop\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Admin\Desktop\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.WebApi.deps.json
+C:\Users\Admin\Desktop\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.WebApi.runtimeconfig.json
+C:\Users\Admin\Desktop\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.WebApi.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.WebApi.dll
+C:\Users\Admin\Desktop\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.WebApi.pdb
+C:\Users\Admin\Desktop\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.DataLayer.dll
+C:\Users\Admin\Desktop\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.Entities.dll
+C:\Users\Admin\Desktop\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.DataLayer.pdb
+C:\Users\Admin\Desktop\StockMarket\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.Entities.pdb
+C:\Users\Admin\Desktop\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.AssemblyInfo.cs
+C:\Users\Admin\Desktop\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.csproj.CopyComplete
+C:\Users\Admin\Desktop\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.dll
+C:\Users\Admin\Desktop\StockMarket\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.pdb
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\bin\Debug\netcoreapp2.2\appsettings.Development.json
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\bin\Debug\netcoreapp2.2\appsettings.json
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.WebApi.deps.json
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.WebApi.runtimeconfig.json
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.WebApi.runtimeconfig.dev.json
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.WebApi.dll
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.WebApi.pdb
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.DataLayer.dll
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.Entities.dll
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.DataLayer.pdb
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\bin\Debug\netcoreapp2.2\StockMarket.Entities.pdb
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.csprojAssemblyReference.cache
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.RazorAssemblyInfo.cache
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.RazorAssemblyInfo.cs
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.AssemblyInfoInputs.cache
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.AssemblyInfo.cs
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.RazorTargetAssemblyInfo.cache
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.csproj.CopyComplete
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.dll
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket\obj\Debug\netcoreapp2.2\StockMarket.WebApi.pdb

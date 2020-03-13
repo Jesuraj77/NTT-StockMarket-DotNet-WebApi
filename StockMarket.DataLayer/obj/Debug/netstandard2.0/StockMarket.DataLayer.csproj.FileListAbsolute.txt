@@ -1,0 +1,33 @@
+C:\Users\Admin\source\repos\StockMarket\StockMarket.DataLayer\bin\Debug\netstandard2.0\StockMarket.DataLayer.deps.json
+C:\Users\Admin\source\repos\StockMarket\StockMarket.DataLayer\bin\Debug\netstandard2.0\StockMarket.DataLayer.dll
+C:\Users\Admin\source\repos\StockMarket\StockMarket.DataLayer\bin\Debug\netstandard2.0\StockMarket.DataLayer.pdb
+C:\Users\Admin\source\repos\StockMarket\StockMarket.DataLayer\bin\Debug\netstandard2.0\StockMarket.Entities.dll
+C:\Users\Admin\source\repos\StockMarket\StockMarket.DataLayer\bin\Debug\netstandard2.0\StockMarket.Entities.pdb
+C:\Users\Admin\source\repos\StockMarket\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\StockMarket\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StockMarket\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StockMarket\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.csproj.CopyComplete
+C:\Users\Admin\source\repos\StockMarket\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.dll
+C:\Users\Admin\source\repos\StockMarket\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.pdb
+C:\Users\Admin\Desktop\StockMarket\StockMarket.DataLayer\bin\Debug\netstandard2.0\StockMarket.DataLayer.deps.json
+C:\Users\Admin\Desktop\StockMarket\StockMarket.DataLayer\bin\Debug\netstandard2.0\StockMarket.DataLayer.dll
+C:\Users\Admin\Desktop\StockMarket\StockMarket.DataLayer\bin\Debug\netstandard2.0\StockMarket.DataLayer.pdb
+C:\Users\Admin\Desktop\StockMarket\StockMarket.DataLayer\bin\Debug\netstandard2.0\StockMarket.Entities.dll
+C:\Users\Admin\Desktop\StockMarket\StockMarket.DataLayer\bin\Debug\netstandard2.0\StockMarket.Entities.pdb
+C:\Users\Admin\Desktop\StockMarket\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\StockMarket\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\StockMarket\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\StockMarket\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.csproj.CopyComplete
+C:\Users\Admin\Desktop\StockMarket\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.dll
+C:\Users\Admin\Desktop\StockMarket\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.pdb
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.DataLayer\bin\Debug\netstandard2.0\StockMarket.DataLayer.deps.json
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.DataLayer\bin\Debug\netstandard2.0\StockMarket.DataLayer.dll
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.DataLayer\bin\Debug\netstandard2.0\StockMarket.DataLayer.pdb
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.DataLayer\bin\Debug\netstandard2.0\StockMarket.Entities.dll
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.DataLayer\bin\Debug\netstandard2.0\StockMarket.Entities.pdb
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.csprojAssemblyReference.cache
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.AssemblyInfoInputs.cache
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.AssemblyInfo.cs
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.csproj.CopyComplete
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.dll
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.DataLayer\obj\Debug\netstandard2.0\StockMarket.DataLayer.pdb

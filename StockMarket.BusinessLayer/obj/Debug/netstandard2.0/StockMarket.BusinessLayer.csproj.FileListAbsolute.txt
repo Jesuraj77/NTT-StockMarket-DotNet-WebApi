@@ -1,0 +1,13 @@
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.BusinessLayer\bin\Debug\netstandard2.0\StockMarket.BusinessLayer.deps.json
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.BusinessLayer\bin\Debug\netstandard2.0\StockMarket.BusinessLayer.dll
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.BusinessLayer\bin\Debug\netstandard2.0\StockMarket.BusinessLayer.pdb
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.BusinessLayer\bin\Debug\netstandard2.0\StockMarket.DataLayer.dll
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.BusinessLayer\bin\Debug\netstandard2.0\StockMarket.Entities.dll
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.BusinessLayer\bin\Debug\netstandard2.0\StockMarket.DataLayer.pdb
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.BusinessLayer\bin\Debug\netstandard2.0\StockMarket.Entities.pdb
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.BusinessLayer\obj\Debug\netstandard2.0\StockMarket.BusinessLayer.csprojAssemblyReference.cache
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.BusinessLayer\obj\Debug\netstandard2.0\StockMarket.BusinessLayer.AssemblyInfoInputs.cache
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.BusinessLayer\obj\Debug\netstandard2.0\StockMarket.BusinessLayer.AssemblyInfo.cs
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.BusinessLayer\obj\Debug\netstandard2.0\StockMarket.BusinessLayer.csproj.CopyComplete
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.BusinessLayer\obj\Debug\netstandard2.0\StockMarket.BusinessLayer.dll
+\\CR302\Shared Folder\Bhuvi\13-03\StockMarket-Updated\StockMarket.BusinessLayer\obj\Debug\netstandard2.0\StockMarket.BusinessLayer.pdb
